@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UniversityScholarshipManagementSystem</string>
+    <string-array name="department">
+        <item>Department</item>
+        <item>CSE</item>
+        <item>CS</item>
+        <item>EEE</item>
+        <item>MNS</item>
+        <item>LAW</item>
+        <item>English</item>
+
+    </string-array>
+
+</resources>
